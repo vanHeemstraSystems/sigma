@@ -2,6 +2,8 @@
 
 Based on "Sigma - Quick Start" at https://www.sigmajs.org/#quickstart
 
+Based on "PostgreSQL on Docker" at https://www.docker.com/blog/how-to-use-the-postgres-docker-official-image/
+
 Based on "Looking-glass Viewer" at https://github.com/MercuryTechnologies/looking-glass-viewer
 
 Based on "Looking Glass Graph Viewer" at https://mercurytechnologies.github.io/looking-glass-viewer/
