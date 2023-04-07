@@ -1,4 +1,4 @@
 # 300 - Building Our Application
 
-Based on "Cytoscape - Getting Started" at https://js.cytoscape.org/#getting-started
+Based on "Sigma - Quick Start" at https://www.sigmajs.org/#quickstart
 
