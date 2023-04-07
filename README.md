@@ -1,5 +1,5 @@
 sigma
-# Sigma - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges.
+# Sigma - a JavaScript library aimed at visualizing graphs of thousands of nodes and edges.
 
 Based on "sigma.js" at https://sigmajs.org/
 
